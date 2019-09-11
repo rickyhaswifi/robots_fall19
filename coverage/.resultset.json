@@ -1,0 +1,27 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/ricardobautista/Documents/devpoint/Week 5/robots_fall19/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/ricardobautista/Documents/devpoint/Week 5/robots_fall19/app/models/robot.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        0,
+        null,
+        null
+      ],
+      "/Users/ricardobautista/Documents/devpoint/Week 5/robots_fall19/app/models/inventor.rb": [
+        1,
+        1,
+        null
+      ]
+    },
+    "timestamp": 1568169541
+  }
+}
